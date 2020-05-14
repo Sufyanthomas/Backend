@@ -55,6 +55,6 @@ namespace TheBookWebApi.Controllers.Sales
             {
                 throw new ApiExceptionResponse(cx);
             }
-        }
+       }
     }
 }
