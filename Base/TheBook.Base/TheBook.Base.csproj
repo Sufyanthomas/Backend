@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Oracle.ManagedDataAccess" Version="19.7.0" />
+    <PackageReference Include="Oracle.ManagedDataAccess" Version="19.18.0" />
   </ItemGroup>
 
 </Project>
